@@ -46,7 +46,10 @@
 ![Magdalena's Github Stats](https://github-readme-stats-salesp07.vercel.app/api?username=magdalenahuget&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&title_color=36BC4E&icon_color=36BC4E)
 
 # 🟩 Contributions:
+# snakes1
 ![Snake animation](https://github.com/magdalenahuget/magdalenahuget/blob/output/github-contribution-grid-snake.svg)
 ![snake gif](https://github.com/magdalenahuget/magdalenahuget/blob/output/github-contribution-grid-snake.gif)
+# snakes2
 ![Snake animation](https://raw.githubusercontent.com/magdalenahuget/magdalenahuget/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/magdalenahuget/magdalenahuget/output/github-contribution-grid-snake.svg)
 <hr/>

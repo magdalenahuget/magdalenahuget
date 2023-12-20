@@ -44,4 +44,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=magdalenahuget&theme=dark&hide_border=true&title_color=36BC4E&stroke=36BC4E) </br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=magdalenahuget&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&title_color=36BC4E) </br>
 ![Magdalena's Github Stats](https://github-readme-stats-salesp07.vercel.app/api?username=magdalenahuget&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&title_color=36BC4E&icon_color=36BC4E)
+
+# 🟩 Contributions:
+![Snake animation](https://github.com/magdalenahuget/magdalenahuget/blob/output/github-contribution-grid-snake.svg)
 <hr/>

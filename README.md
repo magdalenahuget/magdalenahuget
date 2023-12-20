@@ -48,4 +48,5 @@
 # 🟩 Contributions:
 ![Snake animation](https://github.com/magdalenahuget/magdalenahuget/blob/output/github-contribution-grid-snake.svg)
 ![snake gif](https://github.com/magdalenahuget/magdalenahuget/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/magdalenahuget/magdalenahuget/output/github-contribution-grid-snake-dark.svg)
 <hr/>

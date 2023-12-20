@@ -1,11 +1,13 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteouus&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+I'm+Magdalena!👋;Glad+you're+here!😊;Check+out+my+work.👩‍💻&color=36BC4E" />
-  </a>
-</h1>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteouus&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+I'm+Magdalena!👋;Glad+you're+here!😊;Check+out+my+work.👩‍💻&color=36BC4E" />
+</a>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magdalena.huget@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/magdalena-huget)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://magdalenahuget.github.io)
+<hr/>
 
 # 🙂 About me:
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on gaining my first commercial experience as a Junior Full Stack Developer or Junior Java Developer.
 - 🌱 I’m currently learning and exploring further topics related to Spring Boot and Docker.
@@ -34,5 +36,4 @@ Here are some ideas to get you started:
 ### Programming tools:
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-<br/>
 <hr/>

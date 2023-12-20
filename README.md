@@ -4,25 +4,19 @@
   </a>
 </h1>
 
-<!--
-**magdalenahuget/magdalenahuget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<hr/>
+<h2>🙂 About me: </h2>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on gaining my first commercial experience as a Junior Full Stack Developer or Junior Java Developer.
+- 🌱 I’m currently learning and exploring further topics related to Spring Boot and Docker.
+- 👯 I’m looking to collaborate in projects involving Java, Spring, React, or other technologies, where I can apply my existing knowledge and further enhance my skills.
+- 💬 Ask me about Java, Spring Boot, Hibernate, PostgreSQL, React or any other technologies I've worked with.
+- 📫 How to reach me: [my linkedin profile](www.linkedin.com/in/magdalena-huget)
+- ⚡ Fun fact: I like styling hair, so if you have a "bad hair day", call me!
 
 <hr/>
- 
 <h2>💻 Technology Stack </h2>
-<br/>
 <div>
     <h3>Programming Languages:</h3>
     <img src="https://skillicons.dev/icons?i=java,javascript,html,css" />

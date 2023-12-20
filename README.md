@@ -18,3 +18,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<hr/>
+ 
+<h2>💻 Technology Stack </h2>
+<br/>
+<div>
+    <h3>Programming Languages:</h3>
+    <img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
+    <h3>Frameworks:</h3>
+    <img src="https://skillicons.dev/icons?i=spring,react,bootstrap,mui,maven,express,nodejs,reactrouter,jwt,npm" />
+    <h3>Databases:</h3>
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite" /><br>
+    <h3>Tools:</h3>
+    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,swagger,trello,jira,canva" /><br>
+</div>
+
+<br/>
+<hr/>

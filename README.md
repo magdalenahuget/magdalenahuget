@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate in projects involving Java, Spring, React, or other technologies, where I can apply my existing knowledge and further enhance my skills.
 - 💬 Ask me about Java, Spring Boot, Hibernate, PostgreSQL, React or any other technologies I've worked with.
 - 📫 How to reach me: [my linkedin profile](www.linkedin.com/in/magdalena-huget)
-- ⚡ Fun fact: I like styling hair, so if you have a "bad hair day", call me!
+- ⚡ Fun fact: I like to style hair, so if you're having a "bad hair day", give me a call!
 
 # 💻 Technology Stack:
 

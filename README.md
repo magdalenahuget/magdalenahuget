@@ -10,7 +10,7 @@
 
 # 🙂 About me:
 
-- 🔭 I’m currently working on gaining my first commercial experience as a Junior Full Stack Developer or Junior Java Developer.
+- 🔭 I’m currently working on getting a Junior Full Stack Developer or Junior Java Developer position.
 - 🌱 I’m currently learning and exploring further topics related to Spring Boot and Docker.
 - 👯 I’m looking to collaborate in projects involving Java, Spring, React, or other technologies, where I can apply my existing knowledge and further enhance my skills.
 - 💬 Ask me about Java, Spring Boot, Hibernate, PostgreSQL, React or any other technologies I've worked with.

@@ -10,7 +10,7 @@
 
 # 🙂 About me:
 
-- 🔭 I’m an Intern Java Developer.
+- 🔭 I’m Java Developer.
 - 🌱 I’m currently learning and exploring topics related to Spring Boot, Kotlin and Angular.
 - 👯 I’m looking to collaborate in projects involving Java, Spring, React, or other technologies, where I can apply my existing knowledge and further enhance my skills.
 - 💬 Ask me about Java, Spring Boot, Hibernate, PostgreSQL, React or any other technologies I've worked with.
